@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .expert one-word domains fr
 
 **Public extract:** 10,000 rows · **Live catalog:** 80,357 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/expert`  
 **Best for:** founders, investors, studios
 
@@ -78,7 +78,7 @@ print(df.head())
 | guidance.expert  | premium   | $520      | $520          | 64             | 76     | 8      | namecheap                                                          |
 | glazing.expert   | available | $82.48    | —             | 62             | 88     | 7      | namecheap                                                          |
 | mama.expert      | resell    | —         | —             | 76             | 88     | 4      | Sav.com, LLC - 28                                                  |
-| key.expert       | premium   | $123.75   | $123.75       | 80             | 43     | 3      | name.com                                                           |
+| key.expert       | premium   | $123.75   | $123.75       | 80             | 42     | 3      | name.com                                                           |
 | airtaxi.expert   | available | $82.48    | —             | 58             | 88     | 8      | namecheap                                                          |
 | civility.expert  | resell    | —         | —             | 68             | 88     | 8      | GoDaddy.com, LLC                                                   |
 | farm.expert      | premium   | $520      | $520          | 72             | 37     | 4      | namecheap                                                          |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EXPERT One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EXPERT One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

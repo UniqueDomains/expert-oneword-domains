@@ -72,7 +72,7 @@ print(df.head())
 | trends.expert      | premium   | $123.75   | —             | 60             | 32     | 6      | name.com         |
 | motel.expert       | available | $82.48    | —             | 86             | 84     | 5      | namecheap        |
 | comparison.expert  | resell    | —         | —             | 64             | 80     | 10     | GoDaddy.com, LLC |
-| holiday.expert     | premium   | $1,040    | $1,040        | 72             | 31     | 7      | namecheap        |
+| holiday.expert     | premium   | $1,040    | $1,040        | 72             | 30     | 7      | namecheap        |
 | termdeposit.expert | available | $82.48    | —             | 60             | 72     | 12     | namecheap        |
 | tokens.expert      | resell    | —         | —             | 51             | 36     | 6      | GoDaddy.com, LLC |
 | chem.expert        | premium   | $82.50    | —             | 74             | 24     | 4      | name.com         |

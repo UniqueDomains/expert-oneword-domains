@@ -1,10 +1,10 @@
-# Available .EXPERT One-Word Domains (80,730)
+# Available .EXPERT One-Word Domains (80,733)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-80%2C730%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-80%2C733%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .expert one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **80,730 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **80,733 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 80,730 domains · **Median ask:** $79.18 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 80,733 domains · **Median ask:** $38.57 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/expert`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/expert`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .EXPERT one-word domai
 
 ### Files
 
-- `expert.csv` — public CSV extract (1,000 rows)
-- `expert.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `expert.csv`, public CSV extract (1,000 rows)
+- `expert.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| zouk.expert        | available | $54.98    | —             | 88             | 88     | 4      | namecheap        |
-| civility.expert    | resell    | —         | —             | 68             | 88     | 8      | GoDaddy.com, LLC |
-| guidance.expert    | premium   | $520      | $520          | 64             | 76     | 8      | namecheap        |
-| glazing.expert     | available | $82.48    | —             | 62             | 88     | 7      | namecheap        |
-| bagger.expert      | resell    | —         | —             | 60             | 84     | 6      | IONOS SE         |
-| trends.expert      | premium   | $123.75   | —             | 60             | 32     | 6      | name.com         |
-| motel.expert       | available | $82.48    | —             | 86             | 84     | 5      | namecheap        |
-| comparison.expert  | resell    | —         | —             | 64             | 80     | 10     | GoDaddy.com, LLC |
-| holiday.expert     | premium   | $1,040    | $1,040        | 72             | 30     | 7      | namecheap        |
-| termdeposit.expert | available | $82.48    | —             | 60             | 72     | 12     | namecheap        |
-| tokens.expert      | resell    | —         | —             | 51             | 36     | 6      | GoDaddy.com, LLC |
-| chem.expert        | premium   | $82.50    | —             | 74             | 24     | 4      | name.com         |
-| sites.expert       | available | $11.99    | —             | 53             | 26     | 5      | name.com         |
-| bubble.expert      | resell    | —         | —             | 76             | 34     | 6      | GoDaddy.com, LLC |
-| guns.expert        | premium   | $123.75   | —             | 68             | 22     | 4      | name.com         |
-| rekt.expert        | available | $11.99    | —             | 40             | 24     | 4      | name.com         |
-| rewards.expert     | resell    | —         | —             | 62             | 30     | 7      | GoDaddy.com, LLC |
-| sucks.expert       | premium   | $500      | —             | 48             | 11     | 5      | name.com         |
-| investors.expert   | available | $11.99    | —             | 60             | 23     | 9      | name.com         |
-| traders.expert     | resell    | —         | —             | 60             | 25     | 7      | Sav.com, LLC     |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
+| kgb.expert        | available | $11.99    | —             | high           | low    | 3      | name.com                                                           |
+| the.expert        | resell    | —         | —             | high           | medium | 3      | Name.com, Inc.                                                     |
+| dog.expert        | premium   | $1,000    | —             | high           | low    | 3      | name.com                                                           |
+| mid.expert        | available | $11.99    | —             | high           | low    | 3      | name.com                                                           |
+| kiddy.expert      | resell    | —         | —             | medium         | high   | 5      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
+| flu.expert        | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                                                           |
+| ball.expert       | available | $11.99    | —             | medium         | low    | 4      | name.com                                                           |
+| bagger.expert     | resell    | —         | —             | medium         | high   | 6      | IONOS SE                                                           |
+| bible.expert      | premium   | $500      | —             | high           | medium | 5      | name.com                                                           |
+| cups.expert       | available | $11.99    | —             | medium         | low    | 4      | name.com                                                           |
+| civility.expert   | resell    | —         | —             | medium         | high   | 8      | GoDaddy.com, LLC                                                   |
+| penis.expert      | premium   | $500      | —             | medium         | low    | 5      | name.com                                                           |
+| eggs.expert       | available | $11.99    | —             | high           | low    | 4      | name.com                                                           |
+| question.expert   | resell    | —         | —             | high           | low    | 8      | Porkbun LLC                                                        |
+| staff.expert      | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo                                                           |
+| hero.expert       | available | $11.99    | —             | high           | medium | 4      | name.com                                                           |
+| comparison.expert | resell    | —         | —             | medium         | high   | 10     | GoDaddy.com, LLC                                                   |
+| camera.expert     | premium   | $854      | $854          | high           | low    | 6      | namesilo                                                           |
+| zouk.expert       | available | $54.98    | —             | high           | high   | 4      | namecheap                                                          |
+| alabama.expert    | premium   | $118.80   | $118.80       | high           | low    | 7      | namesilo                                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 80,730 live domains                        |
+| 1,000-row public sample | 80,733 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are all one-word names on the .expert extension. The set spans broad dictionary words, category terms, and specialist keywords such as teabag.expert, overture.expert, jujitsu.expert, and novel.expert. For founders, the main question is whether the word and extension combine into a clear, credible identity. For investors, the key test is whether the term has enough commercial intent or category relevance to justify the carry. With a median ask of 79.28, entry pricing appears modest, but .expert is a niche extension, so selection quality matters more than volume. Favor words that read naturally with “expert,” avoid awkward pairings, and check for trademark sensitivity before committing.
+This set of one-word .expert domain names spans everyday vocabulary — from action words like out.expert and come.expert to sentiment words like sorry.expert and okay.expert. With 80,733 domains carrying a median asking price of $38.57, .expert offers wide dictionary-word coverage at accessible price points. Because .expert is a specialized, non-.com extension, buyers should weigh trademark exposure and renewal costs alongside brandability before committing to any single name in this list.
 
-- Prioritize words that pair naturally with “expert”
-- Use price discipline: median ask is 79.28
-- Broad terms tend to be more flexible than narrow ones
-- Check trademark risk on brands and distinctive terms
+- 80,733 one-word domain names carry the .expert extension
+- Median asking price across this set is $38.57
+- Sample names include out.expert, beauty.expert, and okay.expert
+- Updated daily to reflect current .expert domain pricing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EXPERT One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EXPERT One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

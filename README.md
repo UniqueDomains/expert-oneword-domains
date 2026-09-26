@@ -1,10 +1,10 @@
-# Available .EXPERT One-Word Domains (92,763)
+# Available .EXPERT One-Word Domains (52,301)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-92%2C763%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-52%2C301%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .expert one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **92,763 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **52,301 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 92,763 domains · **Median ask:** $19.32 · **High-demand under $2,500:** 217
+**Public extract:** 1,000 rows · **Live catalog:** 52,301 domains · **Median ask:** $25.11 · **High-demand under $2,500:** 290
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/expert`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
-| bjp.expert      | available | $11.99    | —             | high           | low    | 3      | name.com                                                           |
-| the.expert      | resell    | —         | —             | high           | medium | 3      | Name.com, Inc.                                                     |
-| dog.expert      | premium   | $1,000    | —             | high           | low    | 3      | name.com                                                           |
-| kgb.expert      | available | $11.99    | —             | high           | low    | 3      | name.com                                                           |
-| kiddy.expert    | resell    | —         | —             | high           | high   | 5      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
-| flu.expert      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                           |
-| mid.expert      | available | $11.99    | —             | high           | low    | 3      | name.com                                                           |
-| money.expert    | resell    | —         | —             | high           | medium | 5      | Porkbun LLC                                                        |
-| bible.expert    | premium   | $500      | —             | high           | medium | 5      | name.com                                                           |
-| acid.expert     | available | $8.98     | $82.48        | high           | low    | 4      | namecheap                                                          |
-| token.expert    | resell    | —         | —             | high           | medium | 5      | Dynadot Inc                                                        |
-| penis.expert    | premium   | $500      | —             | high           | low    | 5      | name.com                                                           |
-| arco.expert     | available | $8.98     | $82.48        | high           | low    | 4      | namecheap                                                          |
-| cashback.expert | resell    | —         | —             | high           | high   | 8      | Wild West Domains, LLC                                             |
-| camera.expert   | premium   | $854      | $854          | high           | low    | 6      | namesilo                                                           |
-| bony.expert     | available | $8.98     | $82.48        | high           | low    | 4      | namecheap                                                          |
-| civility.expert | resell    | —         | —             | high           | high   | 8      | GoDaddy.com, LLC                                                   |
-| moscow.expert   | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo                                                           |
-| eggs.expert     | available | $11.99    | —             | high           | low    | 4      | name.com                                                           |
-| question.expert | resell    | —         | —             | high           | low    | 8      | Porkbun LLC                                                        |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| ana.expert      | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
+| nude.expert     | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.                                           |
+| ale.expert      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| awl.expert      | available | $10.99    | $62.49        | high           | low    | 3      | namesilo                                                  |
+| agent.expert    | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc.                                           |
+| duck.expert     | premium   | $1,000    | $1,000        | high           | low    | 4      | name.com                                                  |
+| mbd.expert      | available | $10.99    | $62.49        | high           | low    | 3      | namesilo                                                  |
+| agents.expert   | resell    | —         | —             | high           | medium | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
+| golf.expert     | premium   | $1,000    | —             | high           | medium | 4      | name.com                                                  |
+| nnw.expert      | available | $8.98     | $82.48        | high           | low    | 3      | namecheap                                                 |
+| lesson.expert   | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC                                          |
+| build.expert    | premium   | $854      | $854          | high           | medium | 5      | namesilo                                                  |
+| out.expert      | available | $8.98     | $82.48        | high           | low    | 3      | namecheap                                                 |
+| betting.expert  | resell    | —         | —             | high           | low    | 7      | Spaceship, Inc.                                           |
+| kinder.expert   | premium   | $500      | —             | high           | medium | 6      | name.com                                                  |
+| abcs.expert     | available | $10.99    | $62.49        | high           | low    | 4      | namesilo                                                  |
+| question.expert | resell    | —         | —             | high           | low    | 8      | Porkbun LLC                                               |
+| country.expert  | premium   | $854      | $854          | high           | low    | 7      | namesilo                                                  |
+| barb.expert     | available | $10.99    | $62.49        | high           | low    | 4      | namesilo                                                  |
+| courses.expert  | premium   | $1,040    | $1,040        | high           | low    | 7      | namecheap                                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 92,763 live domains                        |
+| 1,000-row public sample | 52,301 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 217 high-demand names under $2,500         |
+| Basic exported fields   | 290 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EXPERT One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EXPERT One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

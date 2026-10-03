@@ -23,6 +23,7 @@ eb74ca34-195e-4345-b22b-5d060f94b719,symbiosis.expert,available,,,high,high,9,,,
 6c948d48-ce00-4fb4-a23b-031532fa0fd1,chickpea.expert,available,10.99,62.49,high,low,8,namesilo,,,24/09/2026 14:29
 1776eab6-599d-4511-9c8e-7a59ccbf4a12,couldnt.expert,available,,,high,high,7,,,,
 9c2c88f4-47fe-48e6-b08f-8cf8f70319e9,stormhunter.expert,available,,,high,high,11,,,,
+0a58293c-bdeb-40fd-92dd-a70ce4bf6135,kunming.expert,available,10.99,62.49,high,low,7,namesilo,,,02/10/2026 19:45
 d5422cfb-0de4-4516-aacc-9da41b604adb,scrubs.expert,available,,,high,high,6,,,,
 737d87c2-be66-4a7b-904d-4d579df97778,cuatro.expert,available,10.99,62.49,high,high,6,namesilo,,,27/09/2026 05:39
 2973d402-d1bd-405c-8a52-796a4857aa13,segmented.expert,available,8.98,82.48,high,low,9,namecheap,,,24/08/2026 21:43
@@ -89,6 +90,9 @@ fbcbc997-b139-415a-aae0-430e0b9afbb6,boylston.expert,available,10.99,62.49,high,
 237e5679-2da6-4718-b554-2dd6065027f7,harpullia.expert,available,,,high,high,9,,,,
 87447b84-4dad-417b-9899-7300a1cadcd7,lagune.expert,available,,,high,high,6,,,,
 0cd930ae-ec0a-4d32-8f6e-e617a6474beb,diverted.expert,available,8.98,82.48,high,low,8,namecheap,,,
+4839fdef-bead-4264-b617-7c431ad97f03,vcr.expert,available,10.99,62.49,high,low,3,namesilo,,,02/10/2026 06:38
+bc2bd6ea-daf7-4ded-8ad5-82c56312c653,qasim.expert,available,48.2,48.2,high,low,5,cloudflare,,,02/10/2026 10:51
+11a2591f-d73c-4786-9861-d9c49aa4efa0,hesiod.expert,available,10.99,62.49,high,low,6,namesilo,,,02/10/2026 15:41
 a6fff2a5-fdce-429d-bee2-9e7929cbeed7,mignon.expert,available,,,high,high,6,,,,
 ae23e1cb-8163-42dc-8915-8de997c829f4,describes.expert,available,7.96,49.88,medium,low,9,spaceship,,,29/09/2026 17:07
 8f18c2ec-c5b6-458f-917b-46b122d01ec1,influent.expert,available,8.98,82.48,high,low,8,namecheap,,,22/08/2026 04:36
@@ -99,7 +103,7 @@ dcce4c57-5c45-4bf7-a7ad-1e89697acbc9,ballotades.expert,available,,,medium,low,10
 4d64d0c1-cf6f-4f3a-9058-95897b975738,samaritan.expert,available,7.96,49.88,high,low,9,spaceship,,,01/10/2026 21:36
 2e6256da-c3be-4a41-b85f-8d9848640d4f,undertow.expert,available,,,high,high,8,,,,
 c49bb746-3af2-4681-84b1-54d9334fb0e5,algernon.expert,available,48.2,48.2,high,low,8,cloudflare,,,30/09/2026 21:13
-c9da4471-9238-4ef6-904e-ac0ef1f3de81,boyhood.expert,available,,,high,high,7,,,,
+c9da4471-9238-4ef6-904e-ac0ef1f3de81,boyhood.expert,available,7.96,49.88,high,low,7,spaceship,,,02/10/2026 14:26
 73ab81eb-2560-4ffc-9ce9-6df061e75b7e,wrinkly.expert,available,8.98,82.48,high,low,7,namecheap,,,13/09/2026 13:47
 d04b6876-0f04-470e-bd2d-8a56343b219b,unagi.expert,available,,,high,medium,5,,,,
 e091bd28-19d3-4ae2-9c58-3d229994f2c9,gymkhana.expert,available,,,high,high,8,,,,
@@ -115,6 +119,7 @@ f2583796-0bf5-4c25-8c4a-11412291f87b,gentleman.expert,available,10.99,62.49,high
 fe6172c9-0aa3-449b-856e-da352773a403,bavaria.expert,available,10.99,62.49,high,low,7,namesilo,,,22/09/2026 16:42
 0df121e7-f281-4572-ac29-7d0a411f13fc,relishes.expert,available,,,medium,low,8,,,,
 2154238d-565f-48a0-96a0-92a85711c20e,whose.expert,available,7.96,49.88,high,low,5,spaceship,,,30/09/2026 22:25
+84056d5b-091c-4305-982e-9fc7c68ea105,stettin.expert,available,7.96,49.88,high,low,7,spaceship,,,02/10/2026 20:03
 3ff6118a-c002-4aee-b59b-707a3264bcf2,appaloosa.expert,available,8.98,82.48,high,low,9,namecheap,,,19/09/2026 19:45
 265e7e6a-588a-4e78-bc23-5f7b68b6722a,supercompany.expert,available,,,high,high,12,,,,
 eb46ff93-d18f-4a2e-94cb-fc06d6a23a98,acidolysis.expert,available,,,high,high,10,,,,
@@ -127,6 +132,7 @@ bcab06bd-3f86-4852-b9e6-5bf7965217df,unsavory.expert,available,8.98,82.48,medium
 5ab0fed9-8aaa-4db7-ae4f-c72620cd7820,tribade.expert,available,8.98,82.48,high,low,7,namecheap,,,23/08/2026 00:20
 1bd34648-71f9-42ab-ae11-41b2079e043b,dordrecht.expert,available,10.99,62.49,high,low,9,namesilo,,,30/09/2026 05:32
 3b5df807-52ba-4c19-a813-eeed5f60dad0,saki.expert,available,,,high,high,4,,,,
+512cc477-cbef-456f-9bd9-3b0c1db06b02,copd.expert,available,8.98,82.48,high,low,4,namecheap,,,02/10/2026 12:29
 f6575029-eaa2-4457-b8bc-0f144ce3db1c,landless.expert,available,8.98,82.48,high,low,8,namecheap,,,22/08/2026 19:24
 ebf1688e-70d6-47ef-b1e7-032177b62ce6,ureter.expert,available,,,high,high,6,,,,
 2c956fc4-04e3-4b23-a1bd-5a955d44232b,vase.expert,available,8.98,82.48,high,low,4,namecheap,,,28/09/2026 11:03
@@ -181,9 +187,9 @@ c25de954-713f-4194-ae5d-07ade00d57c5,quahaug.expert,available,,,high,high,7,,,,
 e8381d8e-614a-49c3-9885-c61ff6d7a0a9,abruptly.expert,available,11.99,79.99,medium,low,8,name.com,,,13/08/2026 19:17
 ef85cffa-6cac-4d18-9daa-e7e2f7ad48bb,silence.expert,available,10.99,62.49,high,low,7,namesilo,,,26/09/2026 00:17
 03bbcb8b-03b1-4621-b297-72078c9f7960,barmaid.expert,available,10.99,62.49,high,low,7,namesilo,,,22/09/2026 06:36
-e1630dcc-862b-4dc5-8003-103939410567,palestinian.expert,available,,,high,high,11,,,,
+e1630dcc-862b-4dc5-8003-103939410567,palestinian.expert,available,6.69,49.95,high,low,11,porkbun,,,02/10/2026 06:50
 4adab34a-7c1b-493a-8ccc-82bbd9bdb304,pondlife.expert,available,,,high,high,9,,,,
-cfc832b9-0573-479d-a766-7788e44e5b19,indicators.expert,available,,,high,medium,10,,,,
+cfc832b9-0573-479d-a766-7788e44e5b19,indicators.expert,available,6.64,51.58,high,low,10,dynadot,,,02/10/2026 13:58
 94a21b36-1a5c-45d4-8bde-8a88f172c648,abortive.expert,available,8.98,82.48,high,low,8,namecheap,,,
 e4ea0e33-118c-40df-a5b0-c925d5f99b4c,isolate.expert,available,10.99,62.49,high,low,7,namesilo,,,29/09/2026 08:24
 613cb8cb-ed66-4361-a556-53f5adf6056e,viceadmiralty.expert,available,,,high,high,14,,,,
@@ -200,6 +206,7 @@ d37dd15c-eaab-4cee-b812-08d4904dfe1f,rebuff.expert,available,8.98,82.48,high,low
 55a50c45-d4b1-4f27-8888-b29d72d69d92,carbonize.expert,available,,,high,high,9,,,,
 2fb55e80-271a-431f-8136-ba53ae5d9e5f,reattached.expert,available,,,medium,low,10,,,,
 2452b498-77d4-40d9-8610-5da6bc97fb1d,tranquilizer.expert,available,,,high,high,12,,,,
+ed4ce30f-4d6a-4772-a344-aca2a1c166e3,avril.expert,available,7.96,49.88,high,low,5,spaceship,,,02/10/2026 22:03
 392f6948-9cf6-4104-888e-07a2b4662fae,estimates.expert,available,10.99,62.49,high,low,9,namesilo,,,20/09/2026 04:10
 13c6a018-cef8-4357-8a55-5f2e732afe0c,correcting.expert,available,10.99,62.49,high,low,10,namesilo,,,01/10/2026 15:24
 f07ad87c-ca60-481e-90dc-5cb201b5330d,orgasms.expert,available,,,high,low,7,,,,
@@ -217,6 +224,7 @@ d567b31f-4393-40d7-beaf-b6ab5d25ddb5,bottlefeeding.expert,available,,,high,low,1
 d048f97e-39de-4a35-ac88-20e85632f1d8,slavery.expert,available,8.98,82.48,high,low,7,namecheap,,,10/09/2026 10:30
 73ec9318-8275-488b-b25d-990983d71d03,travers.expert,available,10.99,62.49,medium,low,7,namesilo,,,28/09/2026 16:18
 12ff18c8-3215-4e58-bdf4-845a54f60a3f,cleared.expert,available,10.99,62.49,high,low,7,namesilo,,,01/10/2026 22:49
+08efe4c3-1516-45aa-b30a-512108958ff0,potawatomi.expert,available,7.96,49.88,high,low,10,spaceship,,,02/10/2026 06:06
 c09dc8c7-304e-4511-93ed-f1fab62c66c4,maximilian.expert,available,10.99,62.49,high,low,10,namesilo,,,27/09/2026 07:16
 8ba613db-62f7-433a-a99f-954e803c66c7,squealer.expert,available,8.98,82.48,medium,low,8,namecheap,,,23/09/2026 11:32
 1167e278-6077-4933-ba8b-0eb711f8ecb1,mesonic.expert,available,8.98,82.48,medium,low,7,namecheap,,,24/08/2026 21:09
@@ -227,7 +235,7 @@ a1bafa94-d684-4280-a1f5-633377032808,pettily.expert,available,8.98,82.48,medium,
 fe0e474e-3410-48c4-a092-47aec5375fb9,ordnance.expert,available,10.99,62.49,high,low,8,namesilo,,,20/09/2026 11:44
 630cf0d1-c1e3-4590-b0e4-ba3be2b36393,ale.expert,premium,108.9,108.9,high,low,3,dynadot,,,28/09/2026 20:11
 feb54e75-f6a5-4f3f-91e9-09b349d48c1d,remonstrance.expert,available,,,high,low,12,,,,
-c9da8910-7f40-4894-8dd5-52b38d04f566,unrestricted.expert,available,,,high,high,12,,,,
+c9da8910-7f40-4894-8dd5-52b38d04f566,unrestricted.expert,available,48.2,48.2,high,low,12,cloudflare,,,02/10/2026 18:09
 c7254ce2-bb34-4aed-a044-5ea4b31bbd57,shane.expert,available,10.99,62.49,high,low,5,namesilo,,,26/09/2026 03:35
 64ef19fd-8bd7-4fe6-adc4-152327c30fe0,superoxide.expert,available,,,high,high,10,,,,
 cd5d88c7-911d-48af-82bf-d92de9d96e12,reacceleration.expert,available,,,high,high,14,,,,
@@ -271,7 +279,7 @@ e451860a-c861-4793-85e2-a84a23eba06d,cured.expert,available,8.98,82.48,high,low,
 3154a1f1-aa1c-422a-93eb-a3d98fc8cf4e,efficient.expert,available,7.96,49.88,high,low,9,spaceship,,,01/10/2026 07:29
 e6eddd76-7c8e-4738-a798-2d1eee2b923d,possibilism.expert,available,,,high,low,11,,,,
 66666937-89cf-40c6-9f34-f28eb3276fd9,biosurveillance.expert,available,,,high,low,15,,,,
-750062ba-9fc8-45af-ad79-678952bbabd1,snapper.expert,available,,,high,high,7,,,,
+750062ba-9fc8-45af-ad79-678952bbabd1,snapper.expert,available,10.99,62.49,high,low,7,namesilo,,,02/10/2026 23:58
 ff25d765-d681-4a98-acbf-c0feb62dd43a,sambuca.expert,available,,,high,high,7,,,,
 9c8a628e-e05c-48fc-913e-f6a81bc7a1df,grandpas.expert,available,10.99,62.49,high,low,8,namesilo,,,21/09/2026 09:18
 467c608c-f789-40d2-9151-5fff797288e2,buckingham.expert,available,10.99,62.49,high,low,10,namesilo,,,25/09/2026 12:25
@@ -285,15 +293,16 @@ fde6a991-3dd0-456a-803b-7c77be5d2c5c,earthquakes.expert,available,7.96,49.88,med
 5a653934-df0f-4662-9207-9526fa9cade5,exploited.expert,available,8.98,82.48,high,low,9,namecheap,,,08/09/2026 15:46
 c0e01925-a094-450d-8ea3-e10230012218,womanhead.expert,available,,,high,high,9,,,,
 f780f16f-2371-4d6b-93d3-b766475a9f2d,fowkes.expert,available,,,high,high,6,,,,
-c255304e-3116-465e-96fd-1d3d03df23f7,restriction.expert,available,11.99,,high,low,11,name.com,,,
+c255304e-3116-465e-96fd-1d3d03df23f7,restriction.expert,available,10.99,62.49,high,low,11,namesilo,,,03/10/2026 01:00
+cffc9e97-9fa4-426c-bbc4-ec6ca8f2a4a1,bachelors.expert,available,7.96,49.88,medium,low,9,spaceship,,,02/10/2026 13:27
 780c0a48-fab2-4968-a354-64f66a8e8c45,bellcast.expert,available,,,high,high,8,,,,
 790a4654-8ddf-4df1-a23b-7ff2559ad9ee,naturalized.expert,available,,,high,high,11,,,,
-3f231028-5dae-4de6-8b6d-a4c100cdf472,mossad.expert,available,,,high,high,6,,,,
+3f231028-5dae-4de6-8b6d-a4c100cdf472,mossad.expert,available,48.2,48.2,high,low,6,cloudflare,,,03/10/2026 01:37
 ba2ee78c-083b-464a-a19a-39a5c0b903be,sunshield.expert,available,,,high,high,9,,,,
 a63277b0-89a4-46e8-86eb-b2841ab6ffa5,blair.expert,available,8.98,82.48,high,low,5,namecheap,,,19/09/2026 13:36
 90a67f7c-d190-42a7-b1be-c5ed00a1b275,realigning.expert,available,,,high,high,10,,,,
 f46ad1fe-e0db-4764-8426-f004b1fa4a25,yorktown.expert,available,10.99,62.49,medium,low,8,namesilo,,,28/09/2026 10:55
-c9c5003d-ba2b-49ff-a6f9-8ca1a7afb6f4,unsurpassed.expert,available,,,high,high,11,,,,
+c9c5003d-ba2b-49ff-a6f9-8ca1a7afb6f4,unsurpassed.expert,available,7.96,49.88,high,high,11,spaceship,,,03/10/2026 02:17
 f6c12de2-c998-4d1f-9760-dbafcb8090da,algae.expert,available,10.99,62.49,high,low,5,namesilo,,,18/09/2026 06:48
 2b952172-63f4-4daf-a578-d577fe341181,waltz.expert,available,7.96,49.88,high,low,5,spaceship,,,28/09/2026 15:32
 a131eb25-8900-4710-88a6-51e2dc8ce08a,boj.expert,available,,,high,high,3,,,,
@@ -320,7 +329,7 @@ c8160527-fe03-4102-84e9-d25fb293df3a,nessie.expert,available,,,high,high,6,,,,
 e517095a-980e-4523-8a38-1ea6ff7968c5,saleswoman.expert,available,10.99,62.49,high,low,10,namesilo,,,30/09/2026 02:34
 477f29f6-bcb0-4451-8b1a-76d706ba6272,alexandra.expert,available,10.99,62.49,medium,low,9,namesilo,,,27/09/2026 02:30
 77379649-0c70-49e4-a54a-f77dfe80c499,hmnzs.expert,available,,,medium,low,5,,,,
-1ae16fd6-2766-4257-a410-4d6ccd3b1208,allude.expert,available,,,high,high,6,,,,
+1ae16fd6-2766-4257-a410-4d6ccd3b1208,allude.expert,available,6.64,51.58,high,high,6,dynadot,,,03/10/2026 02:18
 427b2413-c583-42d3-9829-4d2785c2384e,inexhaustibly.expert,available,,,high,high,13,,,,
 ded217bc-9424-40dc-8904-c690b371b1c3,models.expert,available,10.99,62.49,high,low,6,namesilo,,,27/09/2026 10:25
 450b650f-5714-40a9-a25e-d2fe722dab5f,depraved.expert,available,8.98,82.48,high,low,8,namecheap,,,14/08/2026 02:29
@@ -368,13 +377,14 @@ e5ed342f-f99c-40b1-aa7d-56f4e5d22894,bidens.expert,available,10.99,62.49,medium,
 8a67d13d-f36a-4fe9-be81-934172e67a2d,polyfill.expert,available,,,high,high,8,,,,
 a0c14636-3fb6-4c39-a456-4d45d87b229e,bitterroot.expert,available,10.99,62.49,high,low,10,namesilo,,,23/09/2026 23:08
 c4730348-0fb1-45d8-82c3-fd4069c626bf,soils.expert,available,,,high,medium,5,,,,
-e6ada1e2-96ad-4cdd-87fc-8f4f41f6f782,refinement.expert,available,8.98,82.48,high,high,10,namecheap,,,27/09/2026 05:20
+e6ada1e2-96ad-4cdd-87fc-8f4f41f6f782,refinement.expert,available,10.99,62.49,high,low,10,namesilo,,,02/10/2026 05:58
 ab16d5d4-ecc1-42a3-9009-487c90ddb9f5,cleverly.expert,available,7.96,49.88,high,low,8,spaceship,,,28/09/2026 13:56
 332114ee-45fa-4a68-b493-e194d46f001d,constructable.expert,available,,,high,high,13,,,,
 b8b6711d-f485-40cb-8dcc-e6ee5cef2880,waldo.expert,available,7.96,49.88,high,low,5,spaceship,,,27/09/2026 20:38
-20f25a36-7dd4-47e6-87ce-20a1390b2248,rhiannon.expert,available,11.99,,high,low,8,name.com,,,
+20f25a36-7dd4-47e6-87ce-20a1390b2248,rhiannon.expert,available,10.99,62.49,high,low,8,namesilo,,,02/10/2026 14:10
 89a37c6b-b73c-4f70-a3d1-dee8463a4281,jms.expert,available,,,high,high,3,,,,
 84e554fe-fcb7-4a48-851c-b024a4504313,peppiness.expert,available,,,high,high,9,,,,
+cae84302-b64c-499d-978b-6a941f8ed6b9,holme.expert,available,48.2,48.2,high,low,5,cloudflare,,,02/10/2026 07:11
 1fd67e4e-5992-4005-af75-a2d126ff7ab5,sunscreen.expert,available,,,high,high,9,,,,
 10f9e2d2-f65f-45c2-bd27-81d0893a5f1f,stawley.expert,available,,,high,high,7,,,,
 10219d59-b325-4f21-893c-2cd2e8056d56,squalls.expert,available,10.99,62.49,medium,low,7,namesilo,,,20/09/2026 14:16
@@ -411,6 +421,7 @@ be88cd6a-5bcb-43af-964c-c390f55ca3f4,unclipped.expert,available,8.98,82.48,high,
 15b5b5cd-52de-4eb3-a082-a705703cd6f4,confounding.expert,available,,,high,high,11,,,,
 c9a88c8b-f3b7-4506-af55-12980833079e,kirkwall.expert,available,,,high,high,8,,,,
 ead37838-56bf-429d-a8ad-ab320dfd9ec7,fervently.expert,available,8.98,82.48,high,low,9,namecheap,,,14/09/2026 18:24
+7ab6e2d9-f140-48d9-9461-3360f7f9af71,pce.expert,available,48.2,48.2,high,low,3,cloudflare,,,02/10/2026 23:26
 7cae65d2-e63d-4de1-a883-ae0f56a18c98,throated.expert,available,8.98,82.48,high,low,8,namecheap,,,11/09/2026 14:39
 7682090b-c674-4ce0-81b7-793f6d41f0d9,augmentative.expert,available,,,high,high,12,,,,
 ce1a71ca-0b39-4205-8685-8b47cd9258c5,dday.expert,available,10.99,62.49,high,low,5,namesilo,,,16/09/2026 12:39
@@ -425,9 +436,11 @@ fac94409-0a56-42da-8f3d-c9747449f620,floatation.expert,available,,,high,high,10,
 56c1b9d1-987c-4fb5-bfad-d189b6a465ac,metz.expert,available,8.98,82.48,high,low,4,namecheap,,,27/09/2026 07:39
 4d1a7561-adc4-4f3c-bd04-2651066752d6,kereru.expert,available,,,high,low,6,,,,
 fe772cd4-08ad-4e8a-8789-27a067ea391e,persevering.expert,available,,,high,high,11,,,,
+1b720455-6da6-47b3-9d44-183c32fa23ee,rickard.expert,available,7.96,49.88,high,low,7,spaceship,,,02/10/2026 19:55
 041bb635-8608-4de9-9527-8111f9cba3be,kinder.expert,premium,512,512,high,medium,6,namesilo,,,01/10/2026 11:41
 2dd4d808-f8e4-4c80-b0bc-2b60c6cfcf52,tumble.expert,available,7.96,49.88,high,low,6,spaceship,,,30/09/2026 19:03
 0b770651-8fee-4e79-beda-e1ff4a15c327,sexist.expert,available,8.98,82.48,high,low,6,namecheap,,,10/09/2026 05:14
+ae696ca2-14f3-4464-8f46-376eacef0515,ashburton.expert,available,10.99,62.49,high,low,9,namesilo,,,02/10/2026 10:28
 73153050-fb8d-4680-80d1-d9431fc292a5,firstborn.expert,available,8.98,82.48,high,low,9,namecheap,,,16/08/2026 02:17
 acdccee1-53e7-4ba2-9fa7-d99798fd47f8,artificership.expert,available,,,medium,low,13,,,,
 f9c3605a-6e40-4fd9-b687-06d0e0f1fa68,artisanry.expert,available,,,high,low,9,,,,
@@ -464,7 +477,7 @@ f035668a-7088-4566-894b-6e25c911c562,hoary.expert,available,8.98,82.48,high,low,
 653e3d67-3136-41c4-8fa6-0615307dbaf4,coroner.expert,available,7.96,49.88,medium,low,7,spaceship,,,28/09/2026 09:27
 be9cadc1-7ff0-4c70-93f1-f2875cac042a,secretly.expert,available,8.98,82.48,high,low,8,namecheap,,,15/09/2026 06:37
 7d9a66ae-bd80-4729-a1c2-5e596a5fc09a,inducive.expert,available,8.98,82.48,high,low,8,namecheap,,,22/08/2026 03:31
-300e540f-d663-4ffa-a8cd-9adac902a6a2,epitome.expert,available,,,high,high,7,,,,
+300e540f-d663-4ffa-a8cd-9adac902a6a2,epitome.expert,available,7.96,49.88,high,high,7,spaceship,,,03/10/2026 02:16
 0b7b8e7c-26e5-4dfe-9d5f-eb9f9e20a351,qantas.expert,available,,,high,high,6,,,,
 d4db83b2-08d0-4938-adf6-f710ec323a07,yachtboard.expert,available,,,high,high,10,,,,
 b9417df0-74e9-4ebc-935c-93e308df7d5e,conjugate.expert,available,8.98,82.48,high,low,9,namecheap,,,12/08/2026 22:11
@@ -480,15 +493,16 @@ f6b16b05-9a67-43ba-8e5b-738736789a1b,peashooter.expert,available,,,high,high,10,
 0c8b03a8-a90b-4ed7-821d-60b76badc50b,clotshot.expert,available,,,high,high,9,,,,
 95fb7928-c671-47ae-9716-f0a7427c6c5a,snatch.expert,available,10.99,62.49,high,low,6,namesilo,,,19/09/2026 14:54
 5a99dd79-a180-4628-8610-0d27846675ae,hedonism.expert,available,,,high,high,8,,,,
-7c3fc650-8985-4511-9343-ae3775e11df2,undercover.expert,available,8.98,82.48,high,low,10,namecheap,,,12/08/2026 09:28
+7c3fc650-8985-4511-9343-ae3775e11df2,undercover.expert,available,7.96,49.88,high,low,10,spaceship,,,02/10/2026 11:28
 b90ff295-74f0-41c8-bf55-c2cc38275776,houselights.expert,available,,,high,high,12,,,,
-ec7032f7-8d4d-4cad-add4-d335d47f5b29,reproduced.expert,available,,,high,low,10,,,,
+ec7032f7-8d4d-4cad-add4-d335d47f5b29,reproduced.expert,available,7.96,49.88,high,low,10,spaceship,,,02/10/2026 21:53
 201c1bc0-bffd-444d-9b1c-fbf2e1cb95ed,fulfilment.expert,available,10.99,62.49,high,high,10,namesilo,,,28/09/2026 02:19
 e6ef9784-c1d3-4f99-939b-f58f5e2186cd,claud.expert,available,,,high,medium,5,,,,
 1e402c7c-0c8b-4a85-b328-7cae1d16193d,counterbalanced.expert,available,,,high,low,15,,,,
 c0e24e12-be23-4baa-8530-d4a294ff3f52,abite.expert,available,,,high,high,5,,,,
 18030a97-2fec-4f7a-8c24-b07fa5a9d177,cophine.expert,available,,,high,high,7,,,,
 38d41f61-fd6f-4d15-a2ee-6f46c519f534,swapped.expert,available,,,high,low,7,,,,
+74f70a0b-35b7-44e6-b399-c42ef910bf0b,eads.expert,available,8.98,82.48,high,low,4,namecheap,,,02/10/2026 10:34
 4c0f3281-715b-4118-bbc6-53389d0e26fd,screenshot.expert,available,7.96,49.88,high,low,10,spaceship,,,01/10/2026 01:28
 0fd3a83a-1b3a-4561-badf-c6ffcc4cf8f4,bedlam.expert,available,10.99,62.49,high,low,6,namesilo,,,22/09/2026 23:22
 7427af85-8918-4193-9b50-07518171c16c,harmonizer.expert,available,,,high,high,10,,,,
@@ -498,7 +512,7 @@ ad74a051-9387-474b-b8e4-1d5aeaeedf77,mastership.expert,available,10.99,62.49,hig
 c023aa2d-af51-46fa-b907-ddadc5d22a51,storyteller.expert,available,48.2,48.2,high,low,11,cloudflare,,,01/10/2026 22:37
 4b11a76a-073b-40ab-b79e-879e7ed632e6,debater.expert,available,10.99,62.49,high,low,7,namesilo,,,20/09/2026 04:45
 5d6366a0-605b-4373-9efb-d4e8c2f0ecb3,inky.expert,available,8.98,82.48,high,low,4,namecheap,,,22/08/2026 05:42
-e27128eb-3a5b-4fa5-811f-7e955eac9162,yaar.expert,available,,,high,high,4,,,,
+e27128eb-3a5b-4fa5-811f-7e955eac9162,yaar.expert,available,48.2,48.2,high,high,4,cloudflare,,,03/10/2026 02:18
 f4df822b-3432-4def-ab07-361985d45e15,mobydick.expert,available,,,high,medium,9,,,,
 9157c894-8e2f-46af-ac51-e31dd8fc24e6,functionhood.expert,available,,,high,high,12,,,,
 18d6fb2d-1316-4bde-8cd2-49c04c80e250,hillsboro.expert,available,10.99,62.49,medium,low,9,namesilo,,,29/09/2026 04:37
@@ -518,7 +532,7 @@ a64062ae-3651-46bf-8079-871a3f87ebfa,manipulating.expert,available,7.96,49.88,hi
 94ce270a-ef6b-496c-9661-3b4fc6912cc1,pelosi.expert,available,48.2,48.2,medium,low,6,cloudflare,,,02/10/2026 03:41
 5d6c3db7-6ecb-431b-b875-fc54cf2ee726,astound.expert,available,48.2,48.2,high,low,7,cloudflare,,,30/09/2026 15:00
 211c2402-b3df-40fe-a038-cd3c5bf6583d,hydric.expert,available,8.98,82.48,high,low,6,namecheap,,,21/08/2026 16:23
-336f36fa-83d4-4e08-afed-78a89b8f7995,escalated.expert,available,,,high,low,9,,,,
+336f36fa-83d4-4e08-afed-78a89b8f7995,escalated.expert,available,10.99,62.49,high,low,9,namesilo,,,02/10/2026 23:27
 57cf6da3-8f54-43c4-a189-b99b58ad3fb1,dove.expert,available,8.98,82.48,high,low,4,namecheap,,,10/09/2026 17:16
 3b113cd0-7b3a-4256-a7a6-6b7248966ba3,transylvania.expert,available,10.99,62.49,high,low,12,namesilo,,,27/09/2026 18:35
 d68490ae-439f-4434-9f76-c118562006c3,tearoom.expert,available,,,high,high,7,,,,
@@ -560,11 +574,12 @@ ae42a018-3eaf-48fb-a6c4-dca45304c457,odorise.expert,available,,,high,high,7,,,,
 274d8d63-c6aa-4d42-90ac-cfdcd356e532,homesewn.expert,available,,,high,high,9,,,,
 0f1e7b9f-9161-479e-b6df-4022c5cd1cb1,stickman.expert,available,,,high,high,8,,,,
 663f98e2-70f3-4a62-aaf7-f4f325410ea5,subatomic.expert,available,8.98,82.48,high,low,9,namecheap,,,10/09/2026 23:38
+8d1e4c7b-3810-4e17-ac45-34eb2c125dc7,taker.expert,available,48.2,48.2,high,low,5,cloudflare,,,02/10/2026 16:55
 30dc3ec0-c519-4cba-ba57-016e887d2399,straggling.expert,available,,,high,medium,10,,,,
 135d259a-5b2a-4e37-ad4a-f326ee2080d0,planted.expert,available,10.99,62.49,high,low,7,namesilo,,,24/09/2026 04:59
 d0591c62-a775-4b2e-ab38-6fa38e70a33e,width.expert,available,48.2,48.2,high,low,5,cloudflare,,,30/09/2026 03:06
 c8a251a2-1184-4e13-9c4d-8bfee026dd6c,multiethnic.expert,available,10.99,62.49,high,high,11,namesilo,,,29/09/2026 02:19
-a267cee7-b7f4-4711-88c8-a7a67eaef6e0,harden.expert,available,,,high,high,6,,,,
+a267cee7-b7f4-4711-88c8-a7a67eaef6e0,harden.expert,available,8.98,82.48,high,low,6,namecheap,,,02/10/2026 06:44
 e2509430-d5ad-4e87-a68b-cde3c1641ea4,equivalent.expert,available,10.99,62.49,high,low,10,namesilo,,,24/09/2026 14:50
 50fdac18-e221-43af-9170-bbeffeb8a3ce,approaching.expert,available,8.98,82.48,high,low,11,namecheap,,,25/09/2026 11:21
 197c6eac-98a2-41b7-beea-c78d66b0a852,understandable.expert,available,11.99,,high,low,14,name.com,,,
@@ -629,10 +644,10 @@ e6667f08-5a79-4e1b-9ca0-a58566bb7d47,catchful.expert,available,,,high,high,8,,,,
 d1813280-c003-40ad-add4-6ba9be3b3683,meatball.expert,available,48.2,48.2,high,high,8,cloudflare,,,29/09/2026 02:18
 98e1004d-9bfa-4603-9cfa-eaa5e7e34a8d,leftist.expert,available,8.98,82.48,high,low,7,namecheap,,,12/08/2026 17:05
 5a51f7e7-143c-463e-a675-050537ce957b,quinces.expert,available,,,high,low,7,,,,
-24cb9e42-de8c-4a56-8a59-46cda8138e84,orrin.expert,available,,,high,high,5,,,,
+24cb9e42-de8c-4a56-8a59-46cda8138e84,orrin.expert,available,6.64,51.58,high,low,5,dynadot,,,02/10/2026 20:08
 cf028fbf-dcbd-42bb-abce-5a3a1261c677,startled.expert,available,8.98,82.48,high,low,8,namecheap,,,10/09/2026 19:00
 1e808cb9-412f-42f3-88b7-5126ee75715b,franck.expert,available,6.64,51.58,medium,low,6,dynadot,,,29/09/2026 00:24
-60ad6076-1608-4fea-8a9f-e5d421f4d2c5,bsp.expert,available,,,high,high,3,,,,
+60ad6076-1608-4fea-8a9f-e5d421f4d2c5,bsp.expert,available,7.96,49.88,high,low,3,spaceship,,,02/10/2026 18:23
 f17e3244-d3d5-4bdd-891f-34efba05cc80,incumbent.expert,available,8.98,82.48,high,low,9,namecheap,,,22/08/2026 02:03
 6d298f53-3b3e-43c5-9465-3126ff9f1099,reddiquette.expert,available,,,high,low,11,,,,
 1cc2eb66-7f19-47b8-b2be-1da0a3d6e4b8,resurgent.expert,available,8.98,82.48,high,low,9,namecheap,,,09/09/2026 13:53
@@ -640,7 +655,7 @@ e02308c5-995e-4e0d-9afb-8e1032849eb0,autopsy.expert,available,10.99,62.49,high,l
 7fcd89d6-6d0a-4b50-a14f-8337920f3f65,kanagawa.expert,available,7.96,49.88,high,low,8,spaceship,,,30/09/2026 05:13
 516407c7-4e61-4d0a-a034-19dfa8189e49,klanada.expert,available,,,high,high,7,,,,
 e1c8229d-a990-44b6-8798-91dc535c224f,mullet.expert,available,,,high,high,6,,,,
-626402b5-75e4-41bb-9353-f445860b3e50,imperialism.expert,available,,,high,high,11,,,,
+626402b5-75e4-41bb-9353-f445860b3e50,imperialism.expert,premium,102.67,102.67,high,low,11,spaceship,,,02/10/2026 21:30
 2a66221e-c36e-4351-af50-20e83f42dff7,improves.expert,available,7.96,49.88,high,low,8,spaceship,,,01/10/2026 18:23
 a72d9937-f6c9-4b32-a076-129eda1eca05,conclusiveness.expert,available,,,high,low,14,,,,
 6cc83543-c7df-46b7-8c21-57b6e3c2b0fa,sensualize.expert,available,,,high,high,10,,,,
@@ -713,7 +728,7 @@ a8142ccb-9c8a-464f-b1bc-b303af45aa90,jukeboxlike.expert,available,,,high,high,11
 1e33d8cb-80d6-4591-acfe-6c84d722f011,bellboy.expert,available,8.98,82.48,high,low,7,namecheap,,,23/09/2026 05:55
 c7d208db-e60d-4ff8-b90f-89e915c9aff5,funkadelia.expert,available,,,high,high,10,,,,
 d9d07dd6-5ae1-4f13-9101-11165e93f0c9,footsteps.expert,available,10.99,62.49,medium,low,9,namesilo,,,28/09/2026 12:42
-28ad1568-b5cc-4e1e-8176-6b239b35021a,polaroid.expert,available,10.99,62.49,high,high,8,namesilo,,,27/09/2026 06:08
+28ad1568-b5cc-4e1e-8176-6b239b35021a,polaroid.expert,available,10.99,62.49,high,low,8,namesilo,,,03/10/2026 01:48
 132f8795-dbd8-4cc9-a63c-a41955865651,aqualung.expert,available,8.98,82.48,high,low,8,namecheap,,,19/09/2026 22:54
 9540addf-4472-487d-811c-87402671f3cf,hopes.expert,available,8.98,82.48,high,low,5,namecheap,,,25/09/2026 19:44
 6e9c5f21-9f11-44b4-bbc6-b4ab1e96aef8,mockingly.expert,available,8.98,82.48,medium,low,9,namecheap,,,14/09/2026 12:02
@@ -725,10 +740,11 @@ bdcaa618-b165-44f8-a0eb-e4a822ec0bc6,exchangeable.expert,available,7.96,49.88,hi
 c203a88e-5b7b-43ab-9f86-080422f27a84,kylie.expert,available,,,high,high,5,,,,
 c56ffd2a-2349-4a50-80b4-e54fae6a1a4f,automatism.expert,available,8.98,82.48,high,low,10,namecheap,,,21/09/2026 06:59
 31f68f1d-fbf7-4bef-862c-6374f889c0fb,layn.expert,available,,,high,high,4,,,,
+2ff7202c-dbe1-4a06-a6b3-ce483a5dcfed,lurking.expert,available,10.99,62.49,high,low,7,namesilo,,,02/10/2026 07:23
 cbfd4d46-55e7-43dd-9159-8d24a459309b,oswald.expert,available,11.99,79.99,high,low,6,name.com,,,25/09/2026 08:53
 1d52d810-1e14-43dc-a7c4-62192ad440b9,flatley.expert,available,,,high,high,7,,,,
 a47bd662-68b4-41d1-b504-f8220a4db22e,twirlers.expert,available,,,medium,low,8,,,,
-0680bc80-cb7d-4a50-b2d4-def344fa2224,question.expert,resell,,,high,low,8,Porkbun LLC,27/03/2026 18:16,27/03/2027 18:16,26/09/2026 08:27
+0680bc80-cb7d-4a50-b2d4-def344fa2224,question.expert,resell,,,high,low,8,Porkbun LLC,27/03/2026 18:16,27/03/2027 18:16,02/10/2026 10:29
 391dacfb-bda2-4e31-89c1-3dcb65ed8e9c,fruitwood.expert,available,,,high,high,9,,,,
 eeb5bcea-1d13-46fa-936d-73ce169b929b,decency.expert,available,10.99,62.49,high,low,7,namesilo,,,29/09/2026 06:36
 2025d667-d189-4368-a68f-506ddf6154cb,cretin.expert,available,8.98,82.48,medium,low,6,namecheap,,,21/08/2026 20:26
@@ -746,7 +762,7 @@ c90a9749-e0b0-4bc6-ae96-d263f3bb9c26,guangzhou.expert,premium,,,medium,low,9,,,,
 c39b493f-261f-4cd5-aa5c-d9a5e0fd97f5,stradivari.expert,available,10.99,62.49,high,low,10,namesilo,,,19/09/2026 15:41
 d2f3f776-b7c9-49d8-bf47-309be91f2020,gagwriter.expert,available,,,high,high,9,,,,
 789c82b4-16f6-40cf-a32d-335958a89bfc,chloroplast.expert,available,,,high,high,11,,,,
-7d6baeb4-6908-4f81-a7b0-94f2a6e60831,reigns.expert,available,,,high,low,6,,,,
+7d6baeb4-6908-4f81-a7b0-94f2a6e60831,reigns.expert,available,10.99,62.49,high,low,6,namesilo,,,02/10/2026 12:48
 63919bf9-6ed2-4053-84b1-bc58b76c4275,fpda.expert,available,,,high,high,4,,,,
 e854d585-1dc4-4c0b-8b4a-9349b126804f,movieverse.expert,available,,,high,high,10,,,,
 31f63e84-c61b-463c-b8a4-141b8de620e4,artless.expert,available,8.98,82.48,high,low,7,namecheap,,,06/08/2026 23:47
@@ -755,11 +771,12 @@ ea851ec3-dacc-48fb-88b5-3fe77525187d,nudist.expert,available,,,high,high,6,,,,
 644c5c8a-c2ee-437d-9a39-2f74259183dc,pahlevi.expert,available,,,high,high,7,,,,
 6a883faf-7dc3-4c01-9dde-4b6707166e11,capri.expert,available,7.96,49.88,high,low,5,spaceship,,,30/09/2026 00:57
 dcc5a0f2-f1c7-439c-b6f1-9261608086aa,letting.expert,available,8.98,82.48,high,low,7,namecheap,,,09/09/2026 14:21
+8538fa52-b87d-438e-8d36-f4929b6fd444,detrimental.expert,available,48.2,48.2,high,low,11,cloudflare,,,02/10/2026 17:33
 ce22adfa-ed7c-4462-86a6-30ed5c905f00,guiltless.expert,available,8.98,82.48,high,low,9,namecheap,,,12/08/2026 10:18
 61d4d66c-6589-4699-ade0-009d12864e96,profiterole.expert,available,,,high,high,11,,,,
 1dd8a3b2-4e49-44c0-a404-2467f614adf0,inaugurate.expert,available,10.99,62.49,high,high,10,namesilo,,,01/10/2026 02:21
 bff55a36-1233-4275-9bb9-e1cca1a52a74,musicologic.expert,available,,,high,high,11,,,,
-291678aa-59a6-4eb9-98d6-f9fd871e068d,twirl.expert,available,48.2,48.2,high,low,5,cloudflare,,,28/09/2026 02:49
+291678aa-59a6-4eb9-98d6-f9fd871e068d,twirl.expert,available,10.99,62.49,high,low,5,namesilo,,,02/10/2026 05:46
 8b7f3cac-2ad4-404c-8ebe-d5f5e8f8b14a,elizaveta.expert,available,,,high,medium,9,,,,
 697d3d75-a8d0-4e9a-8c56-3385efc4c8af,lavenham.expert,available,,,high,high,8,,,,
 73a42d2c-955c-44cb-a7cf-59d2f0c35d52,sister.expert,available,10.99,62.49,high,low,6,namesilo,,,26/09/2026 00:18
@@ -781,11 +798,12 @@ d3f67c1e-e851-4566-8722-415801a17ef0,visualizers.expert,available,,,high,low,11,
 733b647f-78e4-48c6-aaf0-c2074a0be6e7,entertains.expert,available,,,high,low,10,,,,
 9f133d03-fdab-4443-8ec0-fda27e1fa132,fannie.expert,available,7.96,49.88,medium,low,6,spaceship,,,28/09/2026 12:06
 5ff680f0-9005-4eae-9390-764021b4355b,sebring.expert,available,7.96,49.88,high,low,7,spaceship,,,01/10/2026 23:35
-90742f4b-e739-46d9-b151-e58481664276,crutch.expert,available,10.99,62.49,high,high,6,namesilo,,,01/10/2026 02:16
+90742f4b-e739-46d9-b151-e58481664276,crutch.expert,available,7.96,49.88,high,low,6,spaceship,,,03/10/2026 00:22
 98ede196-80c7-4af6-a391-90115da4418e,propertied.expert,available,8.98,82.48,high,low,10,namecheap,,,09/09/2026 03:34
-53cceaf3-8e8e-4dc0-ab2f-9e050bc2dc25,encompass.expert,available,10.99,62.49,high,high,9,namesilo,,,27/09/2026 06:12
+347bab52-e1d4-4cfd-837b-ac8279577dec,yavapai.expert,available,10.99,62.49,high,low,7,namesilo,,,03/10/2026 02:24
+53cceaf3-8e8e-4dc0-ab2f-9e050bc2dc25,encompass.expert,available,10.99,62.49,high,low,9,namesilo,,,03/10/2026 00:39
 2ed63f5e-ce4f-49e7-8ff4-e76561540210,credo.expert,available,10.99,62.49,high,high,5,namesilo,,,25/09/2026 09:10
-c7d61514-20d0-48db-86f0-8c552b74d0d6,crowding.expert,available,,,high,high,8,,,,
+c7d61514-20d0-48db-86f0-8c552b74d0d6,crowding.expert,available,10.99,62.49,high,low,8,namesilo,,,03/10/2026 00:21
 5ba1b4d8-c49a-44e7-986b-3f03349eb600,careful.expert,available,10.99,62.49,high,low,7,namesilo,,,23/09/2026 12:50
 658962f2-dd19-4bd6-b280-9706799c99a7,melburnian.expert,available,,,high,high,10,,,,
 8924aa80-831e-4374-bcb3-72b4488672d5,fta.expert,available,6.64,51.58,high,low,3,dynadot,,,30/09/2026 15:03
@@ -803,7 +821,7 @@ feee6621-5ae5-4796-878f-cd9765054888,hoisting.expert,available,,,high,high,8,,,,
 488f6a26-24ca-4d5f-b9aa-3c46db036253,supermouse.expert,available,,,high,high,10,,,,
 a42e2a06-6a72-411c-977c-b56f9714fb3b,sprays.expert,available,,,high,low,6,,,,
 96affeaf-4529-438a-b698-7751a54effd0,galore.expert,available,10.99,62.49,high,high,6,namesilo,,,27/09/2026 05:37
-c8ea3d6a-95c8-47cf-b952-bbdceffb845c,redwood.expert,available,,,high,high,7,,,,
+c8ea3d6a-95c8-47cf-b952-bbdceffb845c,redwood.expert,available,10.99,62.49,high,low,7,namesilo,,,02/10/2026 06:14
 b973c93b-aec6-4b1d-91b0-739f21e132ac,tensile.expert,available,8.98,82.48,high,low,7,namecheap,,,11/09/2026 11:30
 551892c2-3a77-4167-9aca-b7da92d03749,laterwards.expert,available,,,high,high,10,,,,
 3d93f155-1342-458b-808f-e874c40debd7,conductorship.expert,available,,,high,high,13,,,,
@@ -841,7 +859,7 @@ eec9968c-b66f-4bfb-93b9-7be83c365754,leukemia.expert,available,10.99,62.49,high,
 7491a37a-1d06-44ba-8032-48aa2205c258,hungerford.expert,available,8.98,82.48,high,low,10,namecheap,,,30/09/2026 15:42
 cb8af4df-55c2-4dc1-8a06-f0d634642418,hitout.expert,available,,,high,high,7,,,,
 e32d4896-a0a7-4573-a85c-58ae79631a50,fortner.expert,available,,,high,high,7,,,,
-5f188cc8-7490-4eb8-b52d-5741a61d17b4,microfilm.expert,available,,,high,high,9,,,,
+5f188cc8-7490-4eb8-b52d-5741a61d17b4,microfilm.expert,available,7.96,49.88,high,low,9,spaceship,,,02/10/2026 16:06
 fcded7f5-8b73-41cf-92cb-c1c95f5d373c,workload.expert,available,6.69,49.95,high,low,8,porkbun,,,30/09/2026 03:10
 966afe24-40fd-4e0a-a7f8-977b3eed6640,baboons.expert,available,,,high,low,7,,,,
 50f158fc-1498-48a4-9da6-35e304b4eea8,ameer.expert,available,8.98,82.48,high,low,5,namecheap,,,18/09/2026 18:04
@@ -874,6 +892,7 @@ ee87de40-490e-4c8a-85ee-5e5afe80fcb6,additive.expert,available,8.98,82.48,high,l
 3580796a-051b-4c23-954a-670109cad9ad,bonobo.expert,available,6.64,51.58,high,high,6,dynadot,,,30/09/2026 02:21
 32c97cec-4528-44b5-9c2f-f8fb27ad9a63,goth.expert,available,8.98,82.48,high,high,4,namecheap,,,01/10/2026 02:19
 607608df-2529-46a8-9068-361c1572213f,redact.expert,available,,,high,high,6,,,,
+4564a41b-524d-4d5f-94f1-9371f31ea88a,kerouac.expert,available,48.2,48.2,high,low,7,cloudflare,,,02/10/2026 15:49
 3020dcbf-db4c-42ff-b434-d31029c88b4c,holmes.expert,available,10.99,62.49,high,low,6,namesilo,,,20/09/2026 10:51
 871cfb20-4399-47b4-b659-df1856293838,deepnight.expert,available,,,high,medium,9,,,,
 b79e976c-153d-46fc-941e-3ce12e1cbcd6,dispel.expert,available,7.96,49.88,high,high,6,spaceship,,,01/10/2026 02:16
@@ -894,6 +913,7 @@ acd2b5b6-466f-4fe6-92ba-231c64956725,rector.expert,available,,,high,high,6,,,,
 e9fbf0b4-be66-478a-bf82-053aedc4791d,midpoint.expert,available,,,high,high,8,,,,
 0e0648be-eca4-48f5-a680-90dec25192be,tumultuous.expert,available,8.98,82.48,medium,low,10,namecheap,,,14/08/2026 12:25
 c797db26-152d-41bd-8ece-1437aa46da46,ulterior.expert,available,8.98,82.48,high,low,8,namecheap,,,22/08/2026 20:32
+9deddddd-46b6-4c40-917e-1b3429810baa,petrie.expert,available,7.96,49.88,high,low,6,spaceship,,,02/10/2026 09:56
 163d5700-a003-4978-ad8d-6c9cc5ebc401,agent.expert,resell,,,high,medium,5,"Spaceship, Inc.",16/05/2024 15:16,16/05/2027 15:16,26/09/2026 01:26
 08dc097e-85de-43c9-bb7d-f9db078cca6e,beriberi.expert,available,10.99,62.49,high,low,8,namesilo,,,23/09/2026 09:23
 1f7476c6-192d-4254-b068-9f652d41adf2,coeffective.expert,available,,,high,low,11,,,,
@@ -927,7 +947,7 @@ b1bbac55-9e82-4e3c-bf72-51b920c912b9,mule.expert,available,10.99,62.49,high,low,
 eff7162d-1e3f-49cd-baab-cb658778cf67,tempting.expert,available,8.98,82.48,high,low,8,namecheap,,,22/09/2026 01:44
 df70581a-8872-41f3-b193-7e575f8e7204,submersibles.expert,available,,,high,low,12,,,,
 66ca1632-e2cb-4b45-bed9-f4467d0d5cb7,looper.expert,available,,,high,high,6,,,,
-5e0f99b6-587e-4ee6-8575-a3fdd18f6adf,covid.expert,available,11.99,,high,low,5,name.com,,,
+5e0f99b6-587e-4ee6-8575-a3fdd18f6adf,covid.expert,available,10.99,62.49,high,low,5,namesilo,,,02/10/2026 07:05
 0fd37fc5-150e-489b-904a-4b4e4a6d5ec0,gilgamesh.expert,available,,,high,high,9,,,,
 c2b81655-dc01-41e4-b62a-4cff902945fe,aconitum.expert,available,10.99,62.49,high,low,8,namesilo,,,17/09/2026 02:06
 c61e2105-3797-4841-952f-49558a76a879,satisfies.expert,available,10.99,62.49,high,low,9,namesilo,,,20/09/2026 14:54
@@ -943,12 +963,12 @@ ce1afef0-2efe-49d3-b0c1-3d1b3fd09aa4,tosses.expert,available,,,medium,low,6,,,,
 f51080a1-46e9-4f86-9c54-ae01add5fce0,lagger.expert,available,8.98,82.48,medium,low,6,namecheap,,,22/08/2026 18:42
 6f52ea17-6cbb-447c-b83d-0afabafaa61d,rename.expert,available,10.99,62.49,high,high,6,namesilo,,,27/09/2026 05:28
 4c48c3e3-870f-45df-8fe4-8c11627e5f90,representing.expert,available,48.2,48.2,medium,low,12,cloudflare,,,28/09/2026 11:27
-2dfa3b42-a08a-42e0-a52a-3364dd76526a,fribourg.expert,available,,,high,high,8,,,,
+2dfa3b42-a08a-42e0-a52a-3364dd76526a,fribourg.expert,available,7.96,49.88,high,low,8,spaceship,,,02/10/2026 08:24
 65620f6e-00b8-45c1-963b-861f3ad673e4,loftily.expert,available,8.98,82.48,medium,low,7,namecheap,,,15/09/2026 12:38
 a986dc84-0af5-4d6a-ac46-b1e93f118a9e,beholders.expert,available,,,high,low,9,,,,
 991bff5c-4fdd-42f0-8adc-7221433b3950,brooks.expert,available,10.99,62.49,high,low,6,namesilo,,,24/09/2026 10:47
 37603888-728c-434e-832e-429e8b8c42be,deceitful.expert,available,8.98,82.48,medium,low,9,namecheap,,,13/08/2026 21:06
-d809234d-d08a-48b3-afef-df922a7278ad,mott.expert,available,,,high,high,4,,,,
+d809234d-d08a-48b3-afef-df922a7278ad,mott.expert,available,10.99,62.49,high,low,4,namesilo,,,02/10/2026 16:02
 5b0c6b80-8e03-4610-ba7e-89d7c966dea3,caramelicious.expert,available,,,high,high,13,,,,
 e79992c6-826e-455a-9a9d-dd5dcb96414b,spyhole.expert,available,,,high,high,7,,,,
 ca69f5f2-5a05-433a-bddf-c0e400b0ab24,wife.expert,available,7.96,49.88,high,low,4,spaceship,,,30/09/2026 03:56
@@ -972,30 +992,10 @@ ebdd4185-0ad9-4da4-9127-4ee484c5281d,emoderation.expert,available,,,high,low,12,
 d95f756e-96c9-400e-a667-4b583b2418cf,sailfin.expert,available,,,high,high,7,,,,
 31c1f87c-d4f2-4be6-953a-b358f4ec46c7,sidesaddle.expert,available,8.98,82.48,high,low,10,namecheap,,,16/09/2026 01:43
 9f9aaf47-c166-430f-8c81-4b8bc9cbce5d,lin.expert,available,10.99,62.49,high,low,3,namesilo,,,28/09/2026 10:15
+f73ae5af-38a2-4997-8e62-7b049eebcf23,hartlepool.expert,available,8.98,82.48,high,low,10,namecheap,,,02/10/2026 19:29
 8ed28229-e6b0-40d5-a5fd-bc72e04f13d3,flyer.expert,available,8.98,82.48,high,low,5,namecheap,,,11/08/2026 05:11
 a2f86e1f-96f6-4d0c-93ef-e9003607e5e9,correspondence.expert,available,,,high,high,14,,,,
 60311c2c-8cfa-46ea-ac58-4b787003a714,babycakes.expert,available,,,high,high,9,,,,
 47701cf1-1f4c-4a1e-a9b3-11a5ee4bb4cb,penal.expert,available,8.98,82.48,high,low,5,namecheap,,,08/09/2026 13:51
 47ea533c-bf4e-439c-93d4-c8d1b7f0ed19,farley.expert,available,7.96,49.88,high,low,6,spaceship,,,30/09/2026 13:41
 cbb9e285-8250-49ee-9594-ae1fcf4deb59,monogenic.expert,available,8.98,82.48,high,low,9,namecheap,,,25/08/2026 05:13
-87e02431-4193-40b6-9e50-47c1621328ae,pendula.expert,available,,,high,low,7,,,,
-f8d66236-42a4-4e0f-93bd-65550d67bae1,pushcart.expert,available,,,high,high,8,,,,
-14955c87-995b-4102-bb6c-befa524dd251,viable.expert,available,8.98,82.48,high,low,6,namecheap,,,17/08/2026 16:52
-6bc7c660-b16b-46a9-96a2-b24748148ac8,lesson.expert,resell,,,high,low,6,"GoDaddy.com, LLC",25/05/2024 02:57,25/05/2027 02:57,26/09/2026 07:12
-547f70c4-e744-45eb-b4b7-38bb2190c96f,rhapsodic.expert,available,8.98,82.48,high,low,9,namecheap,,,14/08/2026 23:52
-309fc3af-b932-4cb0-aa8f-c635a02defda,kilometer.expert,available,10.99,62.49,high,low,9,namesilo,,,30/09/2026 01:33
-cd42abc1-ec71-415d-a017-5826dc2537cf,supercenter.expert,available,,,high,high,11,,,,
-d4875f6b-ce2f-41ec-ad78-1ff7f0398b6b,majors.expert,available,8.98,82.48,high,low,6,namecheap,,,23/09/2026 14:46
-c2482acb-5cb6-41e2-80a9-e9ba251ce2cf,feminizing.expert,available,,,high,high,10,,,,
-c942b3a0-9456-4a95-833a-fcef12c96709,dijon.expert,available,10.99,62.49,high,low,5,namesilo,,,24/09/2026 22:19
-8045a526-9ae6-4328-837b-faa69906236f,baccare.expert,available,,,high,high,7,,,,
-dc0f15c5-b975-4aa2-bf97-f235884a5f97,omgwtfbbq.expert,available,,,high,high,9,,,,
-0f0f4630-4e73-4a92-ba65-062960bd60ce,ahmad.expert,available,10.99,62.49,high,low,5,namesilo,,,27/09/2026 07:37
-cc26e85b-baf4-49b3-a2dc-94b194f36a12,anzac.expert,available,10.99,62.49,high,low,5,namesilo,,,19/09/2026 16:00
-1b133aa2-35cc-403e-a2df-435b2630e490,raspberry.expert,available,10.99,62.49,high,low,9,namesilo,,,24/09/2026 06:43
-bb013854-7249-49eb-b1a1-0591dd9f4065,avahi.expert,available,10.99,62.49,medium,low,5,namesilo,,,21/09/2026 08:36
-09ee085b-0089-4a31-a539-4fce630a400b,whelps.expert,available,,,medium,low,6,,,,
-771d0d62-0f06-4b22-9d59-d75f4ff9c77b,mythologies.expert,available,,,high,low,11,,,,
-11c4fa43-1f8a-4a78-af6a-0435eb3bdef6,discerningly.expert,available,,,high,high,12,,,,
-02a00c41-ceeb-49bf-9d62-c6e01f748ed4,weymann.expert,available,,,high,high,7,,,,
-fd45c0d5-bb51-4344-abe9-48f782631933,joachim.expert,available,10.99,62.49,high,low,7,namesilo,,,27/09/2026 04:35
